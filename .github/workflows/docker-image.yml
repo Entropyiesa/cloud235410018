@@ -30,4 +30,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: entropyiesa/cloud235410018:latest
+        tags: entropy154/cloud235410018:latest
